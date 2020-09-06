@@ -1,2 +1,2 @@
 # Travel-Agency
-Seyehat Acentası
+Seyahat Acentası
