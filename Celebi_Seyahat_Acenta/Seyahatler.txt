@@ -1,0 +1,3 @@
+AhmetBerkkk-Havayolu,27-03-2019,Adana,00-02,Adýyaman,06-00,80/150,150 
+AhmetBerkkk-Havayolu,27-03-2019,Adana,00-00,Adýyaman,04-00,62/97,200 
+Ahmet_Mehmet-DemirYolu,12-04-2019,Adýyaman,00-03,Amasya,00-00,02/06,250 

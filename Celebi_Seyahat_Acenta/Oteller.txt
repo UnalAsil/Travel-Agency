@@ -1,0 +1,16 @@
+Hilton_Istanbul_Bosphorus,700,Marmara,27-08-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,29-08-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,31-08-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,01-09-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,02-09-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,03-09-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,04-09-2019 
+Hilton_Istanbul_Bosphorus,700,Marmara,05-09-2019 
+Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,2500,Marmara,21-08-2019 
+Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,2500,Marmara,25-08-2019 
+Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,2500,Marmara,26-08-2019 
+Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,2500,Marmara,27-08-2019 
+Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,2500,Marmara,28-08-2019 
+Casa_Bianca_Hotel,500,Ege,19-04-2019 
+Rixos_Downtown_Antalya,700,Akdeniz,19-04-2019 
+Wyndham_Ankara,1100,нч_Anadolu,19-04-2019 

@@ -1,0 +1,7 @@
+Burak,Culha,24,Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,22-08-2019,Marmara,2500 
+Burak,Culha,23,Hilton_Istanbul_Bosphorus,28-08-2019,Marmara,700 
+Burak,Culha,123,Hilton_Istanbul_Bosphorus,28-08-2019,Marmara,700 
+Burak,Gödemen,32,Hilton_Istanbul_Bosphorus,30-08-2019,Marmara,700 
+Egemen,Gödemen,23,Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,22-08-2019,Marmara,2500 
+Burak,Çulha,25,Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,23-08-2019,Marmara,2500 
+culha,culha,42,Four_Seasons_Hotel_Istanbul_At_The_Bosphorus,24-08-2019,Marmara,2500 
